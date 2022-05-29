@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 👨‍💻 All of my projects are available at [github](github.com/ishika-gupta21)
+- 👨‍💻 All of my projects are available at [github](https://github.com/ishika-gupta21)
 
 - 📫 How to reach me **ishika.g2101@gmail.com**
 
